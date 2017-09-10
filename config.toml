@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "http://unbel.github.io/pest/"
 languageCode = "ru"
 title = "Agency"
 theme = "hugo-agency-theme"
