@@ -74,7 +74,7 @@ collections:
         name: "body"
         widget: "markdown"
 
-    - name: "contact" # Used in routes, e.g., /admin/collections/blog
+    - name: "contacta" # Used in routes, e.g., /admin/collections/blog
             label: "contact" # Used in the UI
             folder: "content/contact/" # The path to the folder where the documents are stored
             create: true # Allow users to create new documents in this collection
