@@ -73,10 +73,3 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-
-    - name: "contacta" # Used in routes, e.g., /admin/collections/blog
-            label: "contact" # Used in the UI
-            folder: "content/contact/" # The path to the folder where the documents are stored
-            create: true # Allow users to create new documents in this collection
-            slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-            fields: # The fields for each document, usually in front matter
