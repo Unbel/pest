@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: unbel/pest # Path to your Github repository
   branch: master # Branch to update (optional; defaults to master)
 
@@ -10,9 +10,9 @@ public_folder: "/img" # The src attribute for uploaded media will begin with /im
 
 collections:
 
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
-    folder: "content/post" # The path to the folder where the documents are stored
+  - name: "works" # Used in routes, e.g., /admin/collections/blog
+    label: "portfolio" # Used in the UI
+    folder: "content/portfolio/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
