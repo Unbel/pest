@@ -1,6 +1,6 @@
 ---
 title: Pest
-timezone: UTC
+timezone: Europe/Moscow
 collections:
   posts:
     title: Posts
@@ -11,3 +11,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+snipcart_api_key: 
+url: 
