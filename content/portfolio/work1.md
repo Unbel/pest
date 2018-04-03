@@ -6,15 +6,13 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Name of the work 1"
 weight = 0
 +++
-<button
-    class="snipcart-add-item"
-    data-item-id="2"
-    data-item-name="Bacon"
-    data-item-price="3.00"
-    data-item-weight="20"
-    data-item-url="http://myapp.com/products/bacon"
-    data-item-description="Some fresh bacon">
-    Buy bacon
+<button class="snipcart-add-item"
+    data-item-name="{{ page.name }}"
+    data-item-id="{{ page.sku }}"
+    data-item-image="{{ page.image }}"
+    data-item-url="{{ site.url }}{{ page.url }}"
+    data-item-price="{{ page.price }}">
+    Buy it for {{ page.price }} $
 </button>
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
