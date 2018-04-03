@@ -1,0 +1,48 @@
+backend:
+  name: git-gateway
+  repo: unbel/pest # Path to your Github repository
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "/static/img/portfolio" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/portfolio" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+
+  - name: "Products" # Used in routes, e.g., /admin/collections/blog
+    label: "products" # Used in the UI
+    folder: "content/portfolio/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Publish Date"
+        name: "date"
+        required: false
+        widget: "datetime"
+
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+
+      - label: "Weight"
+        name: "weight"
+        required: true
+        widget: "number"
+
+      - label: "Tags"
+        name: "tags"
+        required: false
+        widget: "list"
+
+      - label: "Price"
+       name: "price"
+        widget: "number"
