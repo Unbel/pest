@@ -26,10 +26,16 @@
   ` | safeHTML }}
 
 <!-- Custom stylesheet - for your changes -->
+<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MGQzMWVkMmYtMzhlZC00MjU4LTk3MjQtZDNmMzM1MTI1ZDlhNjM1OTY4NjY2NjE5MTAwMzMy" id="snipcart"></script>
+
+
+  <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
 <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
 <link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+
+  <a href="#" class="snipcart-checkout">Click here to checkout</a>
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}

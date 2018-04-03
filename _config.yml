@@ -1,6 +1,8 @@
 ---
 title: Pest
 timezone: Europe/Moscow
+snipcart_api_key:
+url: '/'
 collections:
   posts:
     title: Posts
@@ -11,5 +13,21 @@ collections:
   uploads:
     title: Uploads
     output: true
-snipcart_api_key: 
-url: 
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product
+    permalink: "/products/:title/"
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
