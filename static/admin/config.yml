@@ -45,7 +45,6 @@ collections:
 
 
 
-collections:
   - name: "products"
     label: "Products"
     folder: "_products"
