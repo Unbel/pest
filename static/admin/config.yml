@@ -43,9 +43,7 @@ collections:
         required: false
         widget: "list"
 
-      - label: "Price"
-       name: "price"
-        widget: "number"
+
 
 collections:
   - name: "products"
