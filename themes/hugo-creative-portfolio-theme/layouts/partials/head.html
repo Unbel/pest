@@ -24,7 +24,9 @@
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   ` | safeHTML }}
-
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script async src="//lk.easynetshop.ru/frontend/primer.js"></script>
+  <link href="//lk.easynetshop.ru/frontend/primer.css" rel="stylesheet">
 <!-- Custom stylesheet - for your changes -->
 <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MGQzMWVkMmYtMzhlZC00MjU4LTk3MjQtZDNmMzM1MTI1ZDlhNjM1OTY4NjY2NjE5MTAwMzMy" id="snipcart"></script>
 
@@ -36,6 +38,19 @@
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
-  <a href="#" class="snipcart-checkout">Click here to checkout</a>
+  <div class="container">
+   <nav>
+     <div class="nav-wrapper">
+       <a href="#" class="brand-logo">Star Trek shop</a>
+       <ul id="nav-mobile" class="right hide-on-med-and-down">
+         <li class="snipcart-summary">
+           <a href="#" class="snipcart-checkout">
+             View cart (<span class="snipcart-total-items">0</span>)
+           </a>
+         </li>
+       </ul>
+     </div>
+   </nav>
+ </div>
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}

@@ -1,6 +1,22 @@
 {{ define "main" }}
   {{ partial "portfolio.html" . }}
 
+  {{ $products := getJSON "/data/products.json" }}
 
+  <section class="container">
+      <div class="row">
+          {{ range $products }}
+              {{ partial "product.html" . }}
+          {{ end }}
+      </div>
+  </section>
 
+<a class="easynetshop-buy" rel="4a9f99dc105">Купить</a>
+
+          <script>
+              Snipcart.execute('registerLocale', 'ru', {
+                  powered_by:
+                  "BankG"
+              });
+          </script>
 {{ end }}
