@@ -24,8 +24,8 @@ collections:
       - {label: "Slug", name: "slug", widget: "string" }
       - {label: "Layout", name: "layout", widget: "hidden", default: "productdetails"}
 
-      name: "work"
-      label: "Post"
+      name: "portfolio"
+      label: "Portfolio"
       folder: "portfolio"
       slug: "{{slug}}"
       create: true
