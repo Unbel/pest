@@ -1,7 +1,4 @@
 ---
----
-
----
 title: Pest
 timezone: Europe/Moscow
 collections:
@@ -31,6 +28,6 @@ defaults:
     type: pages
   values:
     layout: page
-snipcart_api_key:
+snipcart_api_key: 
 url: "/"
 permalink: pretty
