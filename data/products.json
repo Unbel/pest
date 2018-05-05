@@ -1,23 +1,74 @@
-[{
-    "id": "1",
-    "name": "Klingon dictionary",
-    "price": 34.87,
-    "image": "/img/214.jpg",
-    "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-    "url": "https://cranky-mestorf-be7d92.netlify.com/"
-}, {
-    "id": "2",
-    "name": "Captain Kirk Phaser",
-    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
-    "price": 145.98,
-    "image": "/img/12.jpg",
-    "url": "https://cranky-mestorf-be7d92.netlify.com/"
-}, {
-  
-     "id": "3",
-     "name": "Captain Kirk Phaser",
-     "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
-     "price": 145.98,
-     "image": "/img/12.jpg",
-     "url": "https://cranky-mestorf-be7d92.netlify.com/"
-  }]
+[
+	{
+		"id": "1",
+		"name": "Klingon dictionary",
+		"price": "34.87",
+		"image": "img/goods/0.jpg",
+		"description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "1",
+		"name": "Captain Kirk Phaser",
+		"price": "145.98",
+		"image": "img/goods/1.jpg",
+		"description": "The Original Series Phaser comprises a small",
+		"url": " hand-held Type I Phaser"
+	},
+	{
+		"id": "3",
+		"name": "брелок такой",
+		"price": "78",
+		"image": "img/goods/3.jpg",
+		"description": "пиздец охуеть какой пиздатый брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "4",
+		"name": "брелок заебсиь",
+		"price": "34",
+		"image": "img/goods/4.jpg",
+		"description": "пиздец пиздатый брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "5",
+		"name": "брелок ебок",
+		"price": "432",
+		"image": "img/goods/5.jpg",
+		"description": "пиздец охуеть какой брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "6",
+		"name": "брелок китай",
+		"price": "22",
+		"image": "img/goods/6.jpg",
+		"description": " охуеть какой пиздатый брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "7",
+		"name": "брелок сякоай",
+		"price": "344",
+		"image": "img/goods/7.jpg",
+		"description": "пиздатый брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "8",
+		"name": "брелок тайвань",
+		"price": "43",
+		"image": "img/goods/8.jpg",
+		"description": " какой пиздатый брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	},
+	{
+		"id": "9",
+		"name": "брелок тайвань 2",
+		"price": "54",
+		"image": "img/goods/9.jpg",
+		"description": "охуеть какой брелок",
+		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+	}
+]
