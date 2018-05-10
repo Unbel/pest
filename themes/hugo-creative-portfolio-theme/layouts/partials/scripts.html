@@ -7,3 +7,26 @@
 <script src="{{ "js/imagesloaded.pkgd.min.js" | absURL }}"></script>
 <script src="{{ "js/owl.carousel.min.js" | absURL }}"></script>
 <script src="{{ "js/front.js" | absURL }}"></script>
+
+
+<!-- КОРЗИНА ЕПТА -->
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script async src="https://lk.easynetshop.ru/frontend/v3/ens-9ddbf900.js"></script>
+<link href="https://lk.easynetshop.ru/frontend/v3/ens-9ddbf900.css" rel="stylesheet">
+          <script>
+              Snipcart.execute('registerLocale', 'ru', {
+                  powered_by:
+                  "BankG"
+              });
+          </script>
+
+
+                       {{ $products := getJSON "/data/products.json" }}
+
+                        <section class="container">
+                            <div class="row">
+                                {{ range $products }}
+                                    {{ partial "product.html" . }}
+                                {{ end }}
+                            </div>
+                        </section>

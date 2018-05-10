@@ -5,7 +5,8 @@
 		"price": "34.87",
 		"image": "img/goods/0.jpg",
 		"description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062430"
 	},
 	{
 		"id": "1",
@@ -13,7 +14,8 @@
 		"price": "145.98",
 		"image": "img/goods/1.jpg",
 		"description": "The Original Series Phaser comprises a small",
-		"url": " hand-held Type I Phaser"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062431"
 	},
 	{
 		"id": "3",
@@ -21,7 +23,8 @@
 		"price": "78",
 		"image": "img/goods/3.jpg",
 		"description": "пиздец охуеть какой пиздатый брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062432"
 	},
 	{
 		"id": "4",
@@ -29,7 +32,8 @@
 		"price": "34",
 		"image": "img/goods/4.jpg",
 		"description": "пиздец пиздатый брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062433"
 	},
 	{
 		"id": "5",
@@ -37,7 +41,8 @@
 		"price": "432",
 		"image": "img/goods/5.jpg",
 		"description": "пиздец охуеть какой брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062434"
 	},
 	{
 		"id": "6",
@@ -45,15 +50,17 @@
 		"price": "22",
 		"image": "img/goods/6.jpg",
 		"description": " охуеть какой пиздатый брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062435"
 	},
 	{
 		"id": "7",
-		"name": "брелок сякоай",
+		"name": "брелок сякой",
 		"price": "344",
 		"image": "img/goods/7.jpg",
 		"description": "пиздатый брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062436"
 	},
 	{
 		"id": "8",
@@ -61,7 +68,8 @@
 		"price": "43",
 		"image": "img/goods/8.jpg",
 		"description": " какой пиздатый брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062437"
 	},
 	{
 		"id": "9",
@@ -69,6 +77,7 @@
 		"price": "54",
 		"image": "img/goods/9.jpg",
 		"description": "охуеть какой брелок",
-		"url": "https://cranky-mestorf-be7d92.netlify.com/"
+		"url": "https://cranky-mestorf-be7d92.netlify.com/",
+		"rel": "9ddbf90062438"
 	}
 ]

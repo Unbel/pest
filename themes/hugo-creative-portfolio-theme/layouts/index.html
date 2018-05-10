@@ -1,26 +1,10 @@
 {{ define "main" }}
   {{ partial "portfolio.html" . }}
 
-  {{ $products := getJSON "/data/products.json" }}
 
-  <section class="container">
-      <div class="row">
-          {{ range $products }}
-              {{ partial "product.html" . }}
-          {{ end }}
-      </div>
-  </section>
 
-<div>
 
-</div>
 
-<a class="easynetshop-buy" rel="4a9f99dc105">В корзину!</a>
+<!-- <a class="easynetshop-buy" rel="4a9f99dc105">В корзину!</a> -->
 
-          <script>
-              Snipcart.execute('registerLocale', 'ru', {
-                  powered_by:
-                  "BankG"
-              });
-          </script>
 {{ end }}
