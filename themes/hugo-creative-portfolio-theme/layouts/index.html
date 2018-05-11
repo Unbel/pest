@@ -7,13 +7,17 @@
 
 <!-- <a class="easynetshop-buy" rel="4a9f99dc105">В корзину!</a> -->
 
-               {{ $products := getJSON "/data/products.json" }}
+{{ partial "header.html" . }}
 
-                <section class="container">
-                    <div class="row">
-                        {{ range $products }}
-                            {{ partial "product.html" . }}
-                        {{ end }}
-                    </div>
-                </section>
+{{ $products := getJSON "/data/products.json" }}
+
+<section class="container">
+    <div class="row">
+        {{ range $products }}
+            {{ partial "product.html" . }}
+        {{ end }}
+    </div>
+</section>
+
+{{ partial "footer.html" }}
 {{ end }}
