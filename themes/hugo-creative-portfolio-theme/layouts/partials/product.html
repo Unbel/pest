@@ -9,18 +9,26 @@
             <p>{{ .description }}</p>
         </div>
         <div class="card-action">
+
+
             <button
+
                 class="snipcart-add-item waves-effect waves-light btn"
                 data-item-id="{{ .id }}"
                 data-item-name="{{ .name }}"
                 data-item-price="{{ .price }}"
                 data-item-url="{{ .url }}">
-                    <i class="material-icons right">shopping_cart</i>
-                    Add to cart
-                    <a class="easynetshop-buy" rel="{{ .rel }}">Купить</a>
+
+<a class="easynetshop-buy" rel="{{ .rel }}"><i class="material-icons right">shopping_cart</i>
+                     оплата VISA MASTER CARD___</a>
+
             </button>
 
         </div>
+
+<a class="easynetshop-buy" rel="{{ .rel }}">
+  <i class="material-icons right">shopping_cart</i>
+  Оплата при доставке</a>
 
         </div>
     </div>
