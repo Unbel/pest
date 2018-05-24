@@ -26,3 +26,38 @@
      </div>
    </nav>
  </div>
+
+     <button class="snipcart-add-item" id="my-button"
+    data-item-id="1"
+    data-item-url="/"
+    data-item-name="Item"
+    data-item-price="20.00"
+    data-item-custom1-name="Text"
+    data-item-custom2-name="Size"
+    data-item-custom2-options="Small|Medium|Large">
+
+
+      Buy now
+   </button>
+
+
+   <input type="text" id="my-text" />
+
+   <script type="text/javascript">
+   $('#my-text').change(function() {
+       $('#my-button').data('item-custom1-name', $(this).val());
+   });
+   </script>
+
+
+
+   <select id="my-size">
+   <option>Small</option>
+   <option>Medium</option>
+   <option>Large</option>
+   </select>
+   <script type="text/javascript">
+   $('#my-size').change(function() {
+     $('#my-button').data('item-custom2-name', $(this).val());
+   });
+   </script>
