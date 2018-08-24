@@ -3,81 +3,73 @@
     "id": 1,
     "name": "Ель (ассортимент)",
     "price": 300,
-    "image": "/img/goods/ель(асс).jpg",
+    "image": "\\img\\goods\\ель(асс).jpg",
     "description": "Ель это круто",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 2,
     "name": "Ель колючая",
     "price": 200,
-    "image": "/img/goods/ель(колюч).jpg",
+    "image": "\\img\\goods\\ель(колюч).jpg",
     "description": "Ель крутая и колючая",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 3,
     "name": "Ель обыкновенная",
     "price": 400,
-    "image": "/img/goods/ель(колюч).jpg",
+    "image": "\\img\\goods\\ель(колюч).jpg",
     "description": "обычная ель и ничего необычного",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 4,
     "name": "Ель сизая \"Коника\"",
     "price": 400,
-    "image": "/img/goods/ель(колюч).jpg",
+    "image": "\\img\\goods\\ель(колюч).jpg",
     "description": "это сизая вах",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 5,
     "name": "Микробиота",
     "price": 300,
-    "image": "/img/goods/1.jpg",
+    "image": "\\img\\goods\\ель(колюч).jpg",
     "description": "микробиота ельная",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 6,
     "name": "Можжевельник  (ассортимент)",
     "price": 300,
-    "image": "/img/goods/2.jpg",
+    "image": "\\img\\goods\\ель(колюч).jpg",
     "description": "можевельник вкусно пахнет",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 7,
     "name": "Можжевельник горизонтальный \"Блю Чип\"",
     "price": 400,
-    "image": "/img/goods/3.jpg",
+    "image": "\\img\\goods\\ель(колюч).jpg",
     "description": "стелющийся можевельник",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 8,
     "name": "Можжевельник виргинский\"Грей Оул\"",
     "price": 300,
-    "image": "/img/goods/ель(асс).jpg",
-    "description": "ыыыыыыыыы",
+    "image": "\\img\\goods\\ель(колюч).jpg",
+    "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 9,
@@ -86,8 +78,7 @@
     "image": "\\img\\goods",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 10,
@@ -96,8 +87,7 @@
     "image": "\\img\\goods",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 11,
@@ -106,8 +96,7 @@
     "image": "\\img\\goods",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 12,
@@ -116,8 +105,7 @@
     "image": "\\img\\goods",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 13,
@@ -126,8 +114,7 @@
     "image": "\\img\\goods",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 14,
@@ -136,8 +123,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": "выберите размер"
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": 15,
@@ -146,8 +132,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л|1,0л[-80.00]|2,0л[-50.00]|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -156,8 +141,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -166,8 +150,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -176,8 +159,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -186,8 +168,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -196,8 +177,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -206,8 +186,7 @@
     "image": "",
     "description": "",
     "url": "http://snipcart-hugo.netlify.com",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -216,8 +195,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]",
-    "vybor": ""
+    "options": "0,5л[-80.00]|1,0л[-50.00]|2,0л|3,0л[+100.00]"
   },
   {
     "id": "",
@@ -226,8 +204,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -236,8 +213,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -246,8 +222,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -256,8 +231,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -266,8 +240,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -276,8 +249,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -286,8 +258,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -296,8 +267,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -306,8 +276,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -316,8 +285,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -326,8 +294,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -336,8 +303,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -346,8 +312,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -356,8 +321,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -366,8 +330,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -376,8 +339,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -386,8 +348,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -396,8 +357,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -406,8 +366,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -416,8 +375,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -426,8 +384,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -436,8 +393,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -446,8 +402,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -456,8 +411,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -466,8 +420,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -476,8 +429,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -486,8 +438,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -496,8 +447,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -506,8 +456,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -516,8 +465,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -526,8 +474,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -536,8 +483,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -546,8 +492,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -556,8 +501,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -566,8 +510,7 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   },
   {
     "id": "",
@@ -576,7 +519,6 @@
     "image": "",
     "description": "",
     "url": "",
-    "options": "",
-    "vybor": ""
+    "options": ""
   }
 ]

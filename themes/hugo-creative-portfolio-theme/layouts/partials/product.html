@@ -4,12 +4,12 @@
         <div class="card-image">
         <img src="{{ .image }}">
         </div>
+
         <div class="card-stacked">
         <div class="card-content">
             <p>{{ .description }}</p>
-        </div>
-        <div class="card-action">
 
+        </div>
 
             <button
 
@@ -17,47 +17,21 @@
                 data-item-id="{{ .id }}"
                 data-item-name="{{ .name }}"
                 data-item-price="{{ .price }}"
-                data-item-url="{{ .url }}">
+                data-item-url="{{ .url }}"
+                data-item-description = "{{ .description }}"
+                data-item-custom1-name = "{{ .vybor }}"
+                data-item-custom1-options="{{ .options }}">
                      оплата VISA MASTER CARD___
 
             </button>
-            <button class="snipcart-add-item" id="my-button"
-            data-item-id="1"
-            data-item-url="/"
-            data-item-name="Item"
-            data-item-price="20.00"
-
-            data-item-custom1-name="{{ .customName1 }}"
-            data-item-custom1-options="{{ .option1 }}">
-
-
-             Buy now
-            </button>
 
 
 
-            <label>Размер</label>
-            <select id="my-size" data-customfield="1">
-            <option>Small</option>
-            <option>Medium</option>
-            <option>Large</option>
-            </select>
-            <script type="text/javascript">
-            $(function() {
-              $("select").change(function() {
-                var field_index = $(this).data("customfield");
-                var field = "item-custom" + field_index + "-value";
-                $(".snipcart-add-item").data(field, $(this).val());
-              });
-
-              });
-            });
-            </script>
         </div>
 
-<a class="easynetshop-buy" rel="{{ .rel }}">
+<!-- <a class="easynetshop-buy" rel="{{ .rel }}">
   <i class="material-icons right">shopping_cart</i>
-  в корзину</a>
+  в корзину</a> -->
 
 
         </div>
